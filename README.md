@@ -30,6 +30,13 @@ Il gère l’authentification des utilisateurs via JWT ainsi que les opérations
 ---
 
 
+## Installation et Démarrage
+1. Cloner le dépôt
+2. Installer les dépendances: `npm install`
+3. Démarrer l'application: `npm start`
+
+
+
 ### cloner le projet ici
 
 git clone 
