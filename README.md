@@ -33,4 +33,5 @@ Il gère l’authentification des utilisateurs via JWT ainsi que les opérations
 ### cloner le projet ici
 
 git clone 
+https://github.com/Moussoukoro/backend-gestion-produits.git
 
